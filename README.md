@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align=center>
   [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
-</div>
+
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving)
 
