@@ -1,4 +1,4 @@
-### 안녕하세요. 백엔드 신입 개발자 GuEunHee 입니다👋
+### 안녕하세요. 신입 개발자 GuEunHee 입니다👋
 
 <!--
 **heehui/heehui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
