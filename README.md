@@ -21,7 +21,6 @@
 <!-- <p align="center">
   [![heehui's GitHub stats](https://github-readme-stats.vercel.app/api?username=heehui)](https://github.com/heehui/github-readme-stats)
 </p> -->
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?section=footer&type=waving"></p>
-
+<!-- <p align="center"><img src="https://capsule-render.vercel.app/api?section=footer&type=waving"></p>
+-->
   
