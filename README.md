@@ -1,4 +1,4 @@
-### Hi Welcome👋, I'm EUNHEE GU 🌱
+### Hi Welcome👋, I'm EUNHEE🌱
 
 #### Web developer(Back-end)
 
