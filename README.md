@@ -1,7 +1,6 @@
-### Hi Welcome👋, I'm EUNHEE🌱
+### Hi Welcome👋🌱
 
-#### Web developer(Back-end)
-
+#### Web developer
 
 🛠️ Stacks
 
